@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/messari-dashboard/static/css/main.b35fddda.chunk.css",
+    "main.js": "/messari-dashboard/static/js/main.2f66b56c.chunk.js",
+    "main.js.map": "/messari-dashboard/static/js/main.2f66b56c.chunk.js.map",
+    "runtime-main.js": "/messari-dashboard/static/js/runtime-main.b8c205f0.js",
+    "runtime-main.js.map": "/messari-dashboard/static/js/runtime-main.b8c205f0.js.map",
+    "static/css/2.0ef7fd8d.chunk.css": "/messari-dashboard/static/css/2.0ef7fd8d.chunk.css",
+    "static/js/2.5bdb8f30.chunk.js": "/messari-dashboard/static/js/2.5bdb8f30.chunk.js",
+    "static/js/2.5bdb8f30.chunk.js.map": "/messari-dashboard/static/js/2.5bdb8f30.chunk.js.map",
+    "index.html": "/messari-dashboard/index.html",
+    "static/css/2.0ef7fd8d.chunk.css.map": "/messari-dashboard/static/css/2.0ef7fd8d.chunk.css.map",
+    "static/css/main.b35fddda.chunk.css.map": "/messari-dashboard/static/css/main.b35fddda.chunk.css.map",
+    "static/js/2.5bdb8f30.chunk.js.LICENSE.txt": "/messari-dashboard/static/js/2.5bdb8f30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c205f0.js",
+    "static/css/2.0ef7fd8d.chunk.css",
+    "static/js/2.5bdb8f30.chunk.js",
+    "static/css/main.b35fddda.chunk.css",
+    "static/js/main.2f66b56c.chunk.js"
+  ]
+}
