@@ -1,0 +1,12 @@
+@import 'styles/typography.scss';
+
+.PriceChange {
+  .pChange {
+    @extend .deltaText;
+    margin-right: 8px;
+  }
+
+  .changeTime {
+    color: var(--accent-color);
+  }
+}

@@ -1,0 +1,13 @@
+.TokenPrice {
+  opacity: 0;
+
+  &.visible {
+    opacity: 1;
+  }
+
+  .pValue {
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 1em;
+  }
+}

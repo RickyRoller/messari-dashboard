@@ -1,0 +1,32 @@
+.TokenStats {
+  .title {
+    padding: 8px 12px;
+    font-size: 16px;
+    background-color: var(--secondary-background-color);
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .statContainer {
+    //border-top: 1px solid var(--accent-shadow);
+    border-bottom: 1px solid var(--accent-shadow);
+    border-left: 1px solid var(--accent-shadow);
+    padding: 12px;
+
+    &:first-child {
+      border-left: none;
+    }
+
+    .label {
+      font-size: 14px;
+      color: var(--accent-color);
+    }
+
+    .stat {
+      font-size: 14px;
+    }
+  }
+}

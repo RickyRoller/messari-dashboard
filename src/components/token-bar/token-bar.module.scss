@@ -1,0 +1,32 @@
+.TokenBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .token {
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+
+    span:first-child {
+      margin-right: 8px;
+    }
+
+    .symbol {
+      font-size: 24px;
+      color: var(--secondary-color);
+    }
+  }
+}
+
+.TokenBar :global(.ant-select-selection-item),
+.selectDropdown :global(.ant-select-item-option-content) {
+  display: flex;
+  align-items: center;
+
+  img {
+    height: 16px;
+    width: 16px;
+    margin-right: 8px;
+  }
+}

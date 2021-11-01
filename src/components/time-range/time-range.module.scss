@@ -1,0 +1,16 @@
+.TimeRange {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  span {
+    font-size: 14px;
+    margin-left: 12px;
+    color: var(--accent-color);
+    cursor: pointer;
+
+    &.selected {
+      color: var(--primary-color);
+    }
+  }
+}

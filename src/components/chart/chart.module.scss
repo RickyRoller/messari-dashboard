@@ -1,0 +1,16 @@
+.Chart {
+  margin-bottom: 24px;
+
+  stop {
+    transition: stop-color 150ms;
+  }
+  path.line {
+    transition: stroke 150ms;
+  }
+
+  .priceRange {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+}
